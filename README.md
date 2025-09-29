@@ -59,7 +59,7 @@ This project is *ideal for*:
 
 ## ⚡ How to Run
 bash
-git clone https://github.com/your-username/EarthquakeAlertSystem.git
+git clone https://github.com/*****/EarthquakeAlertSystem.git
 cd EarthquakeAlertSystem
 javac src/main/Main.java
 java src/main/Main
